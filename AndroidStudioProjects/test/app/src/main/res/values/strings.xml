@@ -1,0 +1,34 @@
+<resources>
+    <string name="next">다음</string>
+    <string name="baro">바로측정</string>
+    <string name="dali">달리기</string>
+
+    <string name="app_name">술깨비</string>
+    <string name="btn_connect">측정하기</string>
+
+    <string name="user_go_home_notify">귀갓길을 도와드릴 방법을 선택해주세요.</string>
+    <string name="user_info_notify">귀갓길을 도와줄 정보를 입력해주세요.</string>
+    <string name="user_info_phonenum">비상 연락처</string>
+    <string name="user_info_app_call">대리앱 연동</string>
+
+    <string name="user_info_two_profile_conf">프로필 이미지 설정</string>
+
+    <string name="dali_ask_notify">오늘 달려보실건가요?!</string>
+
+    <string name="dali_ask_time_notify">이 시간이 지나면 검문들어갑니다.</string>
+
+    <string name="hoo_request">측정기 가까이에서\n후~ 불어주세요.</string>
+
+    <string name="detecting">측정 중</string>
+    <string name="drinking">술 마시는 중~~</string>
+
+    <string name="later_detect_notify">이 시간이 지나면 검문 들어갑니다.</string>>
+
+    <string name="detect_normal">정상!</string>
+    <string name="detect_oneshot">한 잔 하셨네요?</string>
+    <string name="detect_cancel">면허 취소</string>
+    <string name="detect_stop">면허 정지</string>
+    <string name="detect_and_next">가야죠</string>
+
+    <string name="default_val">0</string>
+</resources>
